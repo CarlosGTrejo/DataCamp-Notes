@@ -1,0 +1,24 @@
+# Understanding Data Visualization
+
+## VISUALIZING DISTRIBUTIONS
+
+
+
+---
+
+## VISUALIZING TWO VARIABLES
+
+
+
+---
+
+## THE COLOR AND THE SHAPE
+
+
+
+---
+
+## 99 PROBLEMS BUT A PLOT AIN'T ONE OF THEM
+
+
+
