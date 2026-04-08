@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. Understanding Data Engineering
+1. [Understanding Data Engineering](%5Bcourse%5D%20Understanding%20Data%20Engineering.md)
 2. Introduction to SQL
 3. [Intermediate SQL](%5Bcourse%5D%20Intermediate-SQL.md)
 4. [Joining Data in SQL](%5Bcourse%5D%20Joining%20Data%20with%20SQL.md)

@@ -47,19 +47,37 @@ Data pipelines ensure an efficient flow of the data by:
   - errors
   - time it takes for data to move through an organization
 
+---
+
 ## Storing Data
 
-### Data Structures
+### Structured data
 
-#### Structured data
+- Highly organized and formatted in a standardized way
+- Fits neatly into rows and columns (tabular format)
+- Typically stored in relational databases (RDBMS)
+- Easy to search, query, and analyze using SQL
+- Examples: customer records, financial transactions, inventory logs
 
-#### Semi-structured data
+### Semi-structured data
 
-#### Unstructured data
+- Does not conform to a rigid, tabular schema but contains tags or markers to separate elements
+- Self-describing structure (hierarchical or graph-based)
+- Often stored in NoSQL databases
+- Examples: JSON, XML, YAML files, server logs, API responses
 
-### Data warehouses and data lakes
+### Unstructured data
 
-#### Data Lake
+- Has no predefined data model or inherent organization
+- Difficult to search and organize
+- Usually stored in data lakes, can appear in data warehouses or databases
+- Examples: text documents, emails, social media posts, images, audio, video
+
+---
+
+## Data warehouses and data lakes
+
+### Data Lake
 
 - stores raw data
 - large
@@ -69,7 +87,7 @@ Data pipelines ensure an efficient flow of the data by:
 - requires up-to-date data catalog
 - big data, real-time analytics
 
-#### Data warehouse
+### Data warehouse
 
 - specific data for a specific use
 - smaller
@@ -78,7 +96,7 @@ Data pipelines ensure an efficient flow of the data by:
 - optimized for data anlysis
 - ad-hoc, read-only queries
 
-#### Data catalog
+### Data catalog
 
 - Helps compensate for the lack of structure in a data lake
 - Documents:
